@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [a.0] - 2021-12-07
+
+### Removed
+
+- Removed anything MTG specific
+- removed the translations that no longer apply
+
+### Added
+
+- Support specifically for lady_assets
+
 ## [2.2.0] - 2021-06-28
 
 ### Changed

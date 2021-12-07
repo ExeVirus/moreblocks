@@ -39,5 +39,5 @@ function stairsplus:register_slab(modname, subname, recipeitem, fields)
 		stairsplus.register_single("slab", alternate, shape, modname, subname, recipeitem, fields)
 	end
 
-	circular_saw.known_nodes[recipeitem] = {modname, subname}
+	--circular_saw.known_nodes[recipeitem] = {modname, subname}
 end

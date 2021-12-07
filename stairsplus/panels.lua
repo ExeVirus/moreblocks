@@ -39,5 +39,5 @@ function stairsplus:register_panel(modname, subname, recipeitem, fields)
 		stairsplus.register_single("panel", alternate, def, modname, subname, recipeitem, fields)
 	end
 
-	circular_saw.known_nodes[recipeitem] = {modname, subname}
+	--circular_saw.known_nodes[recipeitem] = {modname, subname}
 end

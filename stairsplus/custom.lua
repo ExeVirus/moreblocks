@@ -93,5 +93,5 @@ function stairsplus:register_custom_subset(subset, modname, subname, recipeitem,
 		stairsplus.register_single(v[1], v[2], stairsplus.defs[v[1]][v[2]], modname, subname, recipeitem, fields)
 	end
 
-	circular_saw.known_nodes[recipeitem] = {modname, subname}
+	--circular_saw.known_nodes[recipeitem] = {modname, subname}
 end
